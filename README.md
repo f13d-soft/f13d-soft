@@ -1,16 +1,17 @@
-## Hi there 👋
+# F13D
 
-<!--
-**f13d-soft/f13d-soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollamos software a medida para comercios y pymes en Argentina.
 
-Here are some ideas to get you started:
+Construimos sitios web, sistemas de gestión y automatizaciones que ordenan procesos, reducen tareas repetitivas y hacen más simple el trabajo diario. Adaptamos cada solución a la marca, los datos y la forma de trabajar de cada cliente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qué hacemos
+
+- Sitios web y experiencias digitales para negocios.
+- Sistemas de ventas, stock, turnos, pedidos y órdenes de trabajo.
+- Automatización de procesos e integración entre herramientas.
+
+## Tecnologías
+
+TypeScript · React · Next.js · Node.js · PostgreSQL · Prisma · Supabase
+
+Nuestro enfoque combina diseño claro, código mantenible y herramientas prácticas para el trabajo cotidiano.
